@@ -1,0 +1,8 @@
+com.techbank.cqrs.core.commands
+com.techbank.cqrs.core.domain
+com.techbank.cqrs.core.events
+com.techbank.cqrs.core.exceptions
+com.techbank.cqrs.core.handlers
+com.techbank.cqrs.core.infrastructure
+com.techbank.cqrs.core.messages
+com.techbank.cqrs.core.producers

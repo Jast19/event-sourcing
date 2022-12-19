@@ -1,0 +1,12 @@
+-classpath '/home/alexis/Documents/projects/Java/bank-account/cqrs/common/build/classes/java/main:/home/alexis/Documents/projects/Java/bank-account/cqrs/common/build/resources/main:/home/alexis/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar:/home/alexis/.m2/repository/com/techbank/core/1.0.0/core-1.0.0.jar'
+-d '/home/alexis/Documents/projects/Java/bank-account/cqrs/common/build/docs/javadoc'
+-doctitle 'common 1.0.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'common 1.0.0 API'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/dto/AccountType.java'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/dto/BaseResponse.java'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/event/FundsWithdrawnEvent.java'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/event/AccountOpenedEvent.java'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/event/FundsDepositedEvent.java'
+'/home/alexis/Documents/projects/Java/bank-account/cqrs/common/src/main/java/com/techbank/account/common/event/AccountClosedEvent.java'

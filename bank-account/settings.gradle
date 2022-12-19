@@ -1,0 +1,6 @@
+rootProject.name = 'bank-account'
+
+include ':account.cmd'
+project(':account.cmd').projectDir = file('./account.cmd')
+include ':account.query'
+project(':account.query').projectDir = file('./account.query')

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="FILE:account.cmd/src/main/java/com/techbank/account/cmd/infrastructure/AccountEventStore.java" />
+      </list>
+    </option>
+  </component>
+</project>
